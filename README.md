@@ -2,5 +2,5 @@
 Booking NTUH
 
 ## How to use
-[](./ntuh_booking.gif)
+[](https://github.com/a05110511t/NTUH_Booking/blob/master/ntuh_booking.gif)
 
