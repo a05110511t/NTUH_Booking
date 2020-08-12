@@ -14,6 +14,11 @@
 [Show all ipynb click here](https://nbviewer.jupyter.org/github/a05110511t/NTUH_Booking/blob/master/ntuh_booking.ipynb)
 
 ### 5/28更新 
-- 測試中!!
+- 測試中!!無法突破連線數量機制T_T
 - 另一種掛號方式正常
+
+### 8/13 更新
+- 更新另一種找掛號網址方法
+[Show ntuh_booking2.ipynb click here](https://nbviewer.jupyter.org/github/a05110511t/NTUH_Booking/blob/master/ntuh_booking2.ipynb)
+
 ### P.S. 訂閱頻道和按讚我才會比較有動力更新+研究>_< 
