@@ -19,6 +19,7 @@
 
 ### 8/13 更新
 - 更新另一種找掛號網址方法
+
 [Show ntuh_booking2.ipynb click here](https://nbviewer.jupyter.org/github/a05110511t/NTUH_Booking/blob/master/ntuh_booking2.ipynb)
 
 ### P.S. 訂閱頻道和按讚我才會比較有動力更新+研究>_< 
